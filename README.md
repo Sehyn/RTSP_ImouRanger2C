@@ -23,6 +23,7 @@ Simple live playback for ImouRanger2C camera (most likely all Imou based camera)
 - [ ] Low CPU Usage
 - [ ] Fix naming
 - [ ] Add Comments on code
+- [x] Extra info section placeholder
 
 
 
