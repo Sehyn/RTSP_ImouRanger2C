@@ -35,6 +35,7 @@ Simple live playback for ImouRanger2C camera (most likely all Imou based camera)
 
 ## Using Library :
 * Vlc.Dot.Net (Outdated)
+* Guna UI2
 
 ## Information :
 * First of all thank you for downloading my source code.
