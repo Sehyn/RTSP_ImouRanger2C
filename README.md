@@ -24,19 +24,6 @@ Simple live playback for ImouRanger2C camera (most likely all Imou based camera)
 - [ ] Fix naming
 - [ ] Add Comments on code
 
-## Information :
-
-* Output of the dumper:
-
-
-* ------------------Black Desert Universal Dumper - Open Source by @123lkj12lk312kjl3 - Github: @Sehyn ---------------
-* LocalPlayer = 0x143715328;
-* LocalMount = 0x143715650;
-* MaxZoomAddr = 0x143561B40;
-* Player Nearby Address = 0x143715000;
-* Unlock AS/CS Limit Address = 0x1409F3A09;
-* AntiCheat = 0x1409F01A5;
-* ------------------- Black Desert Universal Dumper -------------------
 
 
 ## Developed by :
